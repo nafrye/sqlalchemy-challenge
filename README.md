@@ -5,4 +5,4 @@ I used information from the class slack channel for the minimum functions (that 
 
 I had two areas of trouble:
 1. the bar chart - specifically not including every date on the x-axis as a label
-2. computing minimums, maximums, and means for certain date ranges from the landing page
+2. computing means for certain date ranges from the landing page
